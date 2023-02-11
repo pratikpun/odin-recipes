@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background-color: lavenderblush;
+}
+a {
+  margin: 10px;
+  font-size: 20px;
+}
+a:hover {
+  color: teal;
+  background-color: orange;
+}
+h2 {
+  color: Hotpink;
+  text-align: center;
+  text-decoration: underline;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+p,
+ul,
+ol,
+li {
+  text-align: center;
+  list-style: none;
+}
